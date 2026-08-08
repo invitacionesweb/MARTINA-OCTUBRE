@@ -379,7 +379,7 @@ audio::-webkit-media-controls-current-time-display {
     text-align: center;
     padding: 40px 0 40px 0;
     background-image: url(./img-editable/textura3.png);
-   padding:96px 0 78px 0;
+   padding:70px 0 78px 0;
     background-size: cover;
     background-position: center;
     background-color: var(--color-secundario);
