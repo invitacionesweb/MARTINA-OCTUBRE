@@ -586,8 +586,8 @@ footer img {
 .end-names img{
     width: auto;
     height: auto;
-    max-width: 300px;
-    padding: 0;
+    max-width: 340px;
+    padding: 60px 0;
     margin: 0;
 
 }
